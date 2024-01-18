@@ -1,0 +1,3 @@
+﻿  ACIProj2023.cpp
+C:\Users\Ovidiu\source\repos\ACIProj2023\ACIProj2023.cpp(168,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ACIProj2023.vcxproj -> C:\Users\Ovidiu\source\repos\ACIProj2023\x64\Debug\ACIProj2023.exe
